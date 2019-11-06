@@ -1,2 +1,2 @@
-# 个人博客
-文章发表在[issue](https://github.com/FridaS/blog/issues)中。
+常见的2D碰撞检测 
+https://github.com/FridaS/blog/issues/5#issue-302596507
